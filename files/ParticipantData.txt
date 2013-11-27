@@ -1,0 +1,141 @@
+Participant Name: T S
+220313: Patient changed to: SABEER, ANUNITI
+220443: Patient changed to: SMART, ALLEN
+220705: Patient changed to: SMIRNOV, LUDMILLA
+221319: Patient changed to: SMITH, JOHN
+332641: Drug changed to: ABILIFY 10MG TAB
+335850: Drug changed to: TACROLIMUS
+336098: Drug changed to: TYLENOL NO.2 15MG TAB
+337988: Drug changed to: TYLENOL NO.3 30MG TAB
+338334: Drug changed to: TYLENOL NO.4 300MG & 60MG TAB
+338819: Drug changed to: TYLENOL WITH CODEINE 160MG & 8MG/5ML O/L
+338842: Drug changed to: TYLENOL WITH CODEINE ELIXIR 160MG & 8MG/5ML O/L
+338869: Drug changed to: TYLENOL WITH CODEINE NO.2 300MG & 15MG & 15MG TAB
+338905: Drug changed to: TYLENOL WITH CODEINE NO.3 300MG & 15MG & 30MG TAB
+338939: Drug changed to: TYLENOL WITH CODEINE NO.4 300MG & 60MG TAB
+338975: Drug changed to: TYSABRI 300MG/15ML INJ SOL-15ML VIAL PK
+339010: Drug changed to: ULTRAMOP 10MG SG CAP
+339045: Drug changed to: UNIPHYL 400MG SR TAB
+339079: Drug changed to: UNIPHYL 600MG SR TAB
+339114: Drug changed to: UREMOL-HC 1% & 10% CR
+339149: Drug changed to: UREMOL-HC 1% & 10% LOT
+339184: Drug changed to: URSO 250MG TAB
+339219: Drug changed to: URSO DS 500MG TAB
+339253: Drug changed to: USTEKINUMAB
+339288: Drug changed to: VAGIFEM 10 10MCG VAG TAB WITH APPLICATOR
+339323: Drug changed to: VAGIFEM 25MCG VAG TAB
+339358: Drug changed to: VALACYCLOVIR
+339392: Drug changed to: VALCYTE 450MG TAB
+339427: Drug changed to: VALGANCICLOVIR
+339462: Drug changed to: VALISONE 0.1% SCALP LOT
+339497: Drug changed to: VALSARTAN 
+339532: Drug changed to: VALSARTAN & HYDROCHLOROTHIAZIDE
+339566: Drug changed to: VALTREX 500MG TAB
+339602: Drug changed to: VARENICLINE TARTRATE
+339637: Drug changed to: VASOTEC 10MG TAB
+339672: Drug changed to: VASOTEC 25MG TAB
+339706: Drug changed to: VASOTEC 2.5MG TAB
+339741: Drug changed to: VASOTEC 20MG TAB
+339776: Drug changed to: VASOTEC 5MG TAB
+340345: Drug changed to: VENLAFAXINE  HCL
+340832: Drug changed to: VENLAFAXINE XR 150MG ER CAP
+340856: Drug changed to: VENLAFAXINE XR 37.5MG ER CAP
+340881: Drug changed to: VENLAFAXINE XR 75MG ER CAP
+340915: Drug changed to: VENTOLIN 0.4MG/ML O/L
+340950: Drug changed to: VENTOLIN 5MG/ML INH SOL-10ML PK
+340985: Drug changed to: VENTOLIN HFA 100MCG/METERED DOSE INH-200 DOSE PK
+341019: Drug changed to: VENTOLIN NEBULES P.F. 1MG/ML INH SOL- 2.5ML PK
+341248: Drug changed to: VENTOLIN NEBULES P.F. 2MG/ML INH SOL- 2.5ML PK
+341444: Drug changed to: VEPESID 50MG CAP
+341601: Drug changed to: VERMOX 100MG TAB
+342087: Drug changed to: VESICARE 10MG TAB
+342111: Drug changed to: VESICARE 5MG TAB
+342139: Drug changed to: VFEND 200MG TAB
+342173: Drug changed to: VFEND 50MG TAB
+342208: Drug changed to: VIDEX EC 125MG ENTERIC COATED CAP
+342243: Drug changed to: VIDEX EC 200MG ENTERIC COATED CAP
+342278: Drug changed to: VIDEX EC 250MG ENTERIC COATED CAP
+342313: Drug changed to: VIDEX EC 400MG ENTERIC COATED CAP
+342347: Drug changed to: VIMPAT 100MG TAB
+342383: Drug changed to: VIMPAT 150MG TAB
+342419: Drug changed to: VIMPAT 200MG TAB
+343452: Drug changed to: VIMPAT 50MG TAB
+343925: Drug changed to: VINCRISTINE SULFATE 1MG/ML INJ SOL
+343950: Drug changed to: VIOKASE 16 16MG TAB
+343983: Drug changed to: VIOKASE 16800 & 70000 & 70000 USP U/0.7G PD-114G PK
+344019: Drug changed to: VIOKASE 8000 & 30000 & 30000 USP UNITS TAB
+344053: Drug changed to: VIRACEPT 250MG TAB
+344088: Drug changed to: VIRACEPT 625MG TAB
+344122: Drug changed to: VIRAMUNE XR 400MG ER TAB
+344159: Drug changed to: VIREAD 300MG TAB
+344193: Drug changed to: VIROPTIC 1% OPH SOL
+344228: Drug changed to: VISANNE 2MG TAB
+344508: Drug changed to: VISKAZIDE 10/25 10MG & 25MG TAB
+344693: Drug changed to: VISKAZIDE 10/50 10MG & 50MG TAB
+344870: Drug changed to: VISKEN 10MG TAB
+345024: Drug changed to: VISKEN 15MG TAB
+345175: Drug changed to: VISKEN 5MG TAB
+345338: Drug changed to: VITAMIN A ACID 0.01% GEL
+345491: Drug changed to: VITAMIN A ACID 0.05% CR
+345648: Drug changed to: VITAMIN A ACID 0.05% GEL
+346119: Drug changed to: VITAMIN B12-1000MCG/ML 1MG/ML INJ SOL-10ML PK
+346147: Drug changed to: VITAMIN B6 25MG TAB
+346182: Drug changed to: VITAMIN B6-ICN  25MG TAB
+346218: Drug changed to: VITAMIN C 1000MG TAB
+346252: Drug changed to: VITAMIN C 250MG TAB
+346287: Drug changed to: VIVONEX PEDIATRIC PD-48.7G PK
+346322: Drug changed to: VIVONEX PLUS PD-79.5G PK
+346357: Drug changed to: VIVONEX T.E.N. PD-80.4G PK
+346394: Drug changed to: VOLTAREN 100MG SUP
+346429: Drug changed to: VOLTAREN 50MG ENT TAB
+346464: Drug changed to: VOLTAREN 50MG SUP
+346500: Drug changed to: VOLTAREN OPHTHA 0.1% OPH SOL
+346534: Drug changed to: VYVANSE 20MG CAP
+346569: Drug changed to: VYVANSE 30MG CAP
+346603: Drug changed to: VYVANSE 40MG CAP
+346641: Drug changed to: VYVANSE 50MG CAP
+346677: Drug changed to: VYVANSE 60MG CAP
+346710: Drug changed to: WARFARIN
+346746: Drug changed to: WARFARIN 10MG TAB
+346943: Drug changed to: WARFARIN 1MG TAB
+347075: Drug changed to: WARFARIN 2.5MG TAB
+347221: Drug changed to: WARFARIN 2MG TAB
+347723: Drug changed to: WARFARIN 3MG TAB
+347742: Drug changed to: WARFARIN 4MG TAB
+347766: Drug changed to: WARFARIN 5MG TAB
+347800: Drug changed to: WARFARIN 6MG TAB
+347835: Drug changed to: WELLBUTRIN SR 100MG TAB
+347869: Drug changed to: WELLBUTRIN SR 150MG TAB
+347904: Drug changed to: WELLBUTRIN XL 150MG TAB
+347940: Drug changed to: WELLBUTRIN XL 300MG TAB
+347974: Drug changed to: WESTCORT 0.2% CR
+348010: Drug changed to: WESTCORT 0.2% OINT
+348050: Drug changed to: WINPRED 1MG TAB
+348079: Drug changed to: XALACOM 50MCG/ML & 5MG/ML OPH SOL-2.5ML PK
+348417: Drug changed to: XALATAN 0.005% OPH SOL-2.5ML PK
+348934: Drug changed to: XAMIOL 50MCG/G & 0.5MG/G TOP GEL
+349048: Drug changed to: XANAX 0.25MG TAB
+349140: Drug changed to: XANAX 0.5MG TAB
+349343: Drug changed to: XARELTO 1MG TAB
+349481: Drug changed to: XARELTO 10MG TAB
+349659: Drug changed to: XARELTO 15MG TAB
+349825: Drug changed to: XARELTO 20MG TAB
+350177: Drug changed to: XARELTO 15MG TAB
+350364: Drug changed to: XARELTO 10MG TAB
+352258: Drug changed to: XANAX 0.25MG TAB
+401260: Method changed to: Take
+404408: Units changed to: Tabs
+409516: TimesPerUnit changed to: 14
+
+Dropdown menu disabled... Resetting Clock
+
+37: Drug changed to: ABILIFY 10MG TAB
+60: Drug changed to: ABILIFY 10MG TAB
+63: Patient changed to: ABOU, AFAF
+65: Patient changed to: ABOU, AFAF
+66: Method changed to: Apply
+66: Units changed to: Capsules
+67: Frequency changed to: Everyday
+68: LengthOfTime changed to: 1
+69: LengthUnits changed to: Days
+69: TimesPerUnit changed to: 1
