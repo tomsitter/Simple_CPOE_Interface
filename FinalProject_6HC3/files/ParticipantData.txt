@@ -1,0 +1,225 @@
+Participant Name: J D
+2404: Patient changed to: SABEER, ANUNITI
+2433: Patient changed to: SMART, ALLEN
+2653: Patient changed to: SMIRNOV, LUDMILLA
+3291: Patient changed to: SMITH, JOHN
+6947: Drug changed to: C.E.S. 0.625MG TAB
+6979: Drug changed to: CO ALENDRONATE 70MG TAB
+7501: Drug changed to: COLESTID ORANGE GRAN-7.5G PK
+54952: Drug changed to: DABIGATRAN ETEXILATE
+55049: Drug changed to: DOCUSATE SODIUM 100MG CAP
+97801: Frequency changed to: At night
+99392: Frequency changed to: When needed
+111402: TimesPerUnit changed to: 30
+113729: TimesPerUnit changed to: 1
+115393: LengthUnits changed to: Months
+117673: TimesPerUnit changed to: 30
+120746: LengthUnits changed to: Days
+163995: Drug changed to: PALAFER 300MG CAP
+164073: Drug changed to: PEDIAPRED ORAL LIQUID 6.7MG/5ML O/L
+164119: Drug changed to: PERCOCET 5MG & 325MG TAB
+237683: Drug changed to: VAGIFEM 10 10MCG VAG TAB WITH APPLICATOR
+238030: Drug changed to: VALACYCLOVIR
+238530: Drug changed to: VALISONE 0.1% SCALP LOT
+251012: Drug changed to: DABIGATRAN ETEXILATE
+251064: Drug changed to: DIABETA 2.5MG TAB
+388566: Frequency changed to: When needed
+447518: Drug changed to: XALACOM 50MCG/ML & 5MG/ML OPH SOL-2.5ML PK
+447927: Drug changed to: XANAX 0.25MG TAB
+574494: Drug changed to: ABILIFY 10MG TAB
+574799: Drug changed to: AMATINE 2.5MG TAB
+575000: Drug changed to: AMOXICILLIN
+716622: Drug changed to: VAGIFEM 10 10MCG VAG TAB WITH APPLICATOR
+716815: Drug changed to: VASOTEC 10MG TAB
+719855: Drug changed to: VARENICLINE TARTRATE
+720442: Drug changed to: VASOTEC 10MG TAB
+721287: Drug changed to: VASOTEC 2.5MG TAB
+721573: Drug changed to: VASOTEC 20MG TAB
+721722: Drug changed to: VASOTEC 5MG TAB
+810660: Drug changed to: TACROLIMUS
+810738: Drug changed to: TIAMOL 0.05% EMOL CR
+810894: Drug changed to: TIMOLOL MALEATE
+811217: Drug changed to: TIMOPTIC 0.25% OPH SOL
+917663: Drug changed to: PALAFER 300MG CAP
+917728: Drug changed to: PRADAX 110MG CAP
+917904: Drug changed to: PREGABALIN
+954461: Drug changed to: C.E.S. 0.625MG TAB
+954654: Drug changed to: CHAMPIX 0.5MG & 1.0MG TABS (STARTER PACK)
+954814: Drug changed to: CHLORDIAZEPOXIDE 10MG CAP
+972943: Drug changed to: DABIGATRAN ETEXILATE
+973436: Drug changed to: DECADRON 0.1% OPH/OT SOL
+974075: Drug changed to: DELATESTRYL 1000MG/5ML OILY INJ SOL-5ML PK
+1005646: Drug changed to: OCTREOTIDE ACETATE OMEGA 100MCG/ML INJ SOL-1ML AMP PK
+1005718: Drug changed to: ORENCIA 250MG/VIAL INJ PD-VIAL PK
+1007755: Drug changed to: PALAFER 300MG CAP
+1007848: Drug changed to: PRADAX 110MG CAP
+1007934: Drug changed to: PREGABALIN
+1010099: Drug changed to: LACOSAMIDE
+1010398: Drug changed to: LIDEMOL 0.05% EMOL CR
+1228596: Drug changed to: C.E.S. 0.625MG TAB
+1229000: Drug changed to: CECLOR 250MG CAP
+1231094: Drug changed to: ABILIFY 10MG TAB
+1231403: Drug changed to: ACCEL CITALOPRAM TABLETS 20MG TAB
+1231887: Drug changed to: ACEBUTOLOL
+1232630: Drug changed to: ACETAMINOPHEN
+1235345: Drug changed to: ACEBUTOLOL 400MG TAB
+1235874: Drug changed to: ACETAMINOPHEN
+1237539: Drug changed to: APIDRA 100U/ML INJ 5X3ML-CART CLICKSTAR PEN
+1237681: Drug changed to: APO-ACEBUTOLOL 100MG TAB
+1239582: Drug changed to: APO-ACETAMINOPHEN 325MG TAB
+1368122: Drug changed to: DABIGATRAN ETEXILATE
+1368202: Drug changed to: DIABETA 2.5MG TAB
+1368399: Drug changed to: DILANTIN 100MG CAP
+1368592: Drug changed to: DILTIAZEM HCL
+1400514: Drug changed to: SAB-DICLOFENAC 100MG SUP
+1400626: Drug changed to: SIBELIUM 5MG CAP
+1400800: Drug changed to: SIMPONI AUTOINJECTOR 50MG/0.5ML INJ SOL
+1400905: Drug changed to: SIMVASTATIN
+1403475: Drug changed to: SIMVASTATIN 10MG TAB
+2233758: Frequency changed to: Everyday
+2237511: LengthUnits changed to: Months
+2239839: TimesPerUnit changed to: 5
+2244919 Result: SMITH, JOHN SIMVASTATIN 10MG TAB 
+Take 5 Tabs Everyday for 1 Months at bedtime
+
+2244941: Drug changed to: ABILIFY 10MG TAB
+2244956: Drug changed to: ABILIFY 10MG TAB
+2244958: Patient changed to: ABOU, AFAF
+2244959: Patient changed to: ABOU, AFAF
+2244960: Method changed to: Take
+2244960: Units changed to: Tabs
+2244961: Frequency changed to: Everyday
+2244961: LengthOfTime changed to: 1
+2244962: LengthUnits changed to: Days
+2244963: TimesPerUnit changed to: 1
+2269228: Drug changed to: TACROLIMUS
+2269299: Drug changed to: TIAMOL 0.05% EMOL CR
+2269466: Drug changed to: TIMOLOL MALEATE
+2270065: Drug changed to: TIMOPTIC 0.25% OPH SOL
+2272012: Drug changed to: TIMOPTIC 0.5% OPH SOL
+2448984: Patient changed to: BAALBAKI, YAKOOTAH
+2449150: Patient changed to: BE, HUYNH
+2449239: Patient changed to: BECKLER, VICKI
+2804846: Drug changed to: M-ESLON 100MG CAP
+2804935: Drug changed to: MED-ANASTROZOLE 1MG TAB
+2804951: Drug changed to: METAMUCIL SUGAR FREE ORAL PD
+2805155: Drug changed to: METFORMIN & SITAGLIPTIN
+2825582: Drug changed to: METFORMIN 500MG TAB
+2834869: Frequency changed to: Two times daily
+2838205: TimesPerUnit changed to: 1
+2839486: LengthUnits changed to: Months
+2879271 Result: BECKLER, VICKI METFORMIN 500MG TAB 
+Take 1 Tabs Two times daily for 1 Months at bedtime
+
+2879292: Drug changed to: ABILIFY 10MG TAB
+2879293: Drug changed to: ABILIFY 10MG TAB
+2879298: Patient changed to: ABOU, AFAF
+2879299: Patient changed to: ABOU, AFAF
+2879300: Method changed to: Take
+2879301: Units changed to: Tabs
+2879303: Frequency changed to: Everyday
+2879303: LengthOfTime changed to: 1
+2879304: LengthUnits changed to: Days
+2879304: TimesPerUnit changed to: 1
+3122906: Patient changed to: HAFEEZ, FAIZAH
+3123065: Patient changed to: HECKEL, MANDA
+3123125: Patient changed to: HERDFELD, SARAH
+3130711: Drug changed to: M-ESLON 100MG CAP
+3130767: Drug changed to: MED-ANASTROZOLE 1MG TAB
+3130829: Drug changed to: METAMUCIL SUGAR FREE ORAL PD
+3131004: Drug changed to: METHAZOLAMIDE 50MG TAB
+3131123: Drug changed to: METHOPRAZINE 25MG TAB
+3132946: Drug changed to: METFORMIN & SITAGLIPTIN
+3135867: Drug changed to: DABIGATRAN ETEXILATE
+3135965: Drug changed to: DOCUSATE SODIUM 100MG CAP
+3142038: Drug changed to: OCTREOTIDE ACETATE OMEGA 100MCG/ML INJ SOL-1ML AMP PK
+3142147: Drug changed to: OFLOXACIN TABLETS 200MG TAB
+3147444: Drug changed to: OFLOXACIN TABLETS 300MG TAB
+3147462: Drug changed to: OFLOXACIN TABLETS 200MG TAB
+3166538: Drug changed to: NABILONE
+3167993: Drug changed to: OCTREOTIDE ACETATE OMEGA 100MCG/ML INJ SOL-1ML AMP PK
+3168648: Drug changed to: OMEPRAZOLE
+3170045: Drug changed to: ON CALL PLUS TEST STRIP
+3170763: Drug changed to: ONDANSETRON 4MG/5ML O/L
+3173871: Drug changed to: ONDANSETRON 4MG/5ML O/L
+3222334: LengthOfTime changed to: 5
+3224926: Units changed to: mL
+3241543: LengthOfTime changed to: 1
+3243015: Units changed to: Units
+3258583: Frequency changed to: When needed
+3276914: Patient changed to: KAPP, MARIE
+3277050: Patient changed to: KI-TAEK, JANG
+3277204: Patient changed to: KIM, NGUYEN
+3289046: Drug changed to: PALAFER 300MG CAP
+3289128: Drug changed to: PEDIAPRED ORAL LIQUID 6.7MG/5ML O/L
+3289179: Drug changed to: PERCOCET 5MG & 325MG TAB
+3305409: Units changed to: Tabs
+3377212: Patient changed to: SABEER, ANUNITI
+3377399: Patient changed to: STEARNS, NICOLAS
+3377489: Patient changed to: STUIBER, ANNA
+3377609: Patient changed to: STURMER, SARAH
+3380425: Patient changed to: STURMER, SARAH
+3383339: Drug changed to: TACROLIMUS
+3383513: Drug changed to: TIAMOL 0.05% EMOL CR
+3383675: Drug changed to: TIMOLOL MALEATE
+3384079: Drug changed to: TIMOPTIC 0.25% OPH SOL
+3386106: Drug changed to: TIMOPTIC 0.5% OPH SOL
+3392402: Units changed to: Drops
+3395459: Frequency changed to: Two times daily
+3409546: Patient changed to: TACKETT, GIOVANNI
+3409752: Patient changed to: TAN, DUONG
+3432682: Drug changed to: ABILIFY 10MG TAB
+3432740: Drug changed to: APIDRA 100U/ML INJ 5X3ML-CART CLICKSTAR PEN
+3432915: Drug changed to: APO-ACEBUTOLOL 100MG TAB
+3434697: Drug changed to: APO-ACETAMINOPHEN 325MG TAB
+3442365: Units changed to: Tabs
+3445101: Units changed to: Capsules
+3455061: Frequency changed to: When needed
+3470915: Drug changed to: APO-PANTOPRAZOLE 40MG ENT TAB
+3471278: Drug changed to: APO-PRAMIPEXOLE 0.25MG TAB
+3471354: Drug changed to: APO-PREDNISONE 1MG TAB
+3486524: Units changed to: Tabs
+3491012: Frequency changed to: Everyday
+3493037: TimesPerUnit changed to: 3
+3494029: LengthUnits changed to: Weeks
+3504403: Patient changed to: EASTBURN, KATELYNN
+3504575: Patient changed to: EDINBURGH, MELISSA
+3508664: Drug changed to: DABIGATRAN ETEXILATE
+3508858: Drug changed to: DIABETA 2.5MG TAB
+3509152: Drug changed to: DILANTIN 100MG CAP
+3512038: Drug changed to: DILTIAZEM HCL
+3518510: TimesPerUnit changed to: 30
+3519830: LengthUnits changed to: Days
+3563985: Drug changed to: VAGIFEM 10 10MCG VAG TAB WITH APPLICATOR
+3564091: Drug changed to: VALACYCLOVIR
+3564251: Drug changed to: VALISONE 0.1% SCALP LOT
+3602352: Frequency changed to: At night
+3609440: Frequency changed to: When needed
+3644510: Patient changed to: GAB-DO, I
+3644620: Patient changed to: GOETZINGER, MAGDALENA
+3644808: Patient changed to: GOLYUBEV, ANASTASIYA
+3778798: Patient changed to: KAPP, MARIE
+3778869: Patient changed to: KHAN, AMEENA
+3779377: Patient changed to: KHANI, SAFIYYAH
+3786967: Patient changed to: KHAN, AMEENA
+3787956: Patient changed to: KHAN, KAWTHAR
+3856183: Drug changed to: SAB-DICLOFENAC 100MG SUP
+3856312: Drug changed to: SIBELIUM 5MG CAP
+3856525: Drug changed to: SIMPONI AUTOINJECTOR 50MG/0.5ML INJ SOL
+3856652: Drug changed to: SIMVASTATIN
+3908788: Drug changed to: SINEMET 100MG & 10MG TAB
+3909010: Drug changed to: SINEQUAN 100MG CAP
+3985789: Patient changed to: HIJAZ, ARA
+4214270: Drug changed to: TYLENOL WITH CODEINE NO.3 300MG & 15MG & 30MG TAB
+4228699: Patient changed to: HOLZ, LEA
+4309264: Drug changed to: TRIMIPRAMINE 100MG TAB
+4333669: Patient changed to: HUETHER, ARRON
+Participant Name: Tom Sitter
+11068: Units changed to: Tabs
+16222: Patient changed to: ALGOSAUBI, ZAINAB
+20199: Drug changed to: ACEBUTOLOL
+Participant Name: null
+Participant Name: ts
+2055: Patient changed to: AHMED, RAGHD
+3718: Drug changed to: ACCEL CITALOPRAM TABLETS 20MG TAB
+Participant Name: s d
