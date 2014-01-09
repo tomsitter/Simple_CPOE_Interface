@@ -139,3 +139,140 @@ Dropdown menu disabled... Resetting Clock
 68: LengthOfTime changed to: 1
 69: LengthUnits changed to: Days
 69: TimesPerUnit changed to: 1
+Participant Name: null
+Participant Name: sddrdf
+3699: Patient changed to: AHMED, RAGHD
+5469: Drug changed to: ABILIFY 2MG TAB
+9749: TimesPerUnit changed to: 2
+13321 Result: AHMED, RAGHD ABILIFY 2MG TAB 
+Apply Days Capsules Everyday for 2 Days after meals
+
+13343: Drug changed to: ABILIFY 10MG TAB
+13361: Drug changed to: ABILIFY 10MG TAB
+13365: Patient changed to: ABOU, AFAF
+13368: Patient changed to: ABOU, AFAF
+13369: Method changed to: Apply
+13370: Units changed to: Capsules
+13371: Frequency changed to: Everyday
+13373: LengthOfTime changed to: 1
+13374: LengthUnits changed to: Days
+13375: TimesPerUnit changed to: 1
+35328 Result: ABOU, AFAF ABILIFY 10MG TAB 
+Apply Days Capsules Everyday for 1 Days none
+
+35329: Drug changed to: ABILIFY 10MG TAB
+35331: Drug changed to: ABILIFY 10MG TAB
+35333: Patient changed to: ABOU, AFAF
+35334: Patient changed to: ABOU, AFAF
+35336: Method changed to: Apply
+35337: Units changed to: Capsules
+35339: Frequency changed to: Everyday
+35340: LengthOfTime changed to: 1
+35341: LengthUnits changed to: Days
+35343: TimesPerUnit changed to: 1
+35710 Result: ABOU, AFAF ABILIFY 10MG TAB 
+Apply Days Capsules Everyday for 1 Days none
+
+35712: Drug changed to: ABILIFY 10MG TAB
+35713: Drug changed to: ABILIFY 10MG TAB
+35715: Patient changed to: ABOU, AFAF
+35717: Patient changed to: ABOU, AFAF
+35718: Method changed to: Apply
+35719: Units changed to: Capsules
+35721: Frequency changed to: Everyday
+35722: LengthOfTime changed to: 1
+35724: LengthUnits changed to: Days
+35725: TimesPerUnit changed to: 1
+36143 Result: ABOU, AFAF ABILIFY 10MG TAB 
+Apply Days Capsules Everyday for 1 Days none
+
+36144: Drug changed to: ABILIFY 10MG TAB
+36146: Drug changed to: ABILIFY 10MG TAB
+36148: Patient changed to: ABOU, AFAF
+36149: Patient changed to: ABOU, AFAF
+36151: Method changed to: Apply
+36152: Units changed to: Capsules
+36153: Frequency changed to: Everyday
+36155: LengthOfTime changed to: 1
+36157: LengthUnits changed to: Days
+36158: TimesPerUnit changed to: 1
+128614: TimesPerUnit changed to: 2
+130059 Result: ABOU, AFAF ABILIFY 10MG TAB 
+Apply Days Capsules Everyday for 2 Days none
+
+130061: Drug changed to: ABILIFY 10MG TAB
+130063: Drug changed to: ABILIFY 10MG TAB
+130064: Patient changed to: ABOU, AFAF
+130066: Patient changed to: ABOU, AFAF
+130067: Method changed to: Apply
+130069: Units changed to: Capsules
+130070: Frequency changed to: Everyday
+130072: LengthOfTime changed to: 1
+130073: LengthUnits changed to: Days
+130075: TimesPerUnit changed to: 1
+Participant Name: sdfdfgd
+2574: TimesPerUnit changed to: 2
+5993: Drug changed to: ABILIFY 2MG TAB
+7318: Patient changed to: AIZAZUDDIN, LINA
+9028 Result: AIZAZUDDIN, LINA ABILIFY 2MG TAB 
+Apply Days Capsules Everyday for 2 Days for pain
+
+9050: Drug changed to: ABILIFY 10MG TAB
+9070: Drug changed to: ABILIFY 10MG TAB
+9074: Patient changed to: ABOU, AFAF
+9077: Patient changed to: ABOU, AFAF
+9078: Method changed to: Apply
+9079: Units changed to: Capsules
+9080: Frequency changed to: Everyday
+9082: LengthOfTime changed to: 1
+9083: LengthUnits changed to: Days
+9085: TimesPerUnit changed to: 1
+Participant Name: gdgdfgdd
+2295: TimesPerUnit changed to: 2
+5864: Patient changed to: AHMED, RAGHD
+7767: Drug changed to: ACCEL CITALOPRAM TABLETS 40MG TAB
+9148 Result: AHMED, RAGHD ACCEL CITALOPRAM TABLETS 40MG TAB 
+Apply Days Capsules Everyday for 2 Days none
+
+9171: Drug changed to: ABILIFY 10MG TAB
+9187: Drug changed to: ABILIFY 10MG TAB
+9191: Patient changed to: ABOU, AFAF
+9193: Patient changed to: ABOU, AFAF
+9194: Method changed to: Apply
+9195: Units changed to: Capsules
+9197: Frequency changed to: Everyday
+9198: LengthOfTime changed to: 1
+9199: LengthUnits changed to: Days
+9200: TimesPerUnit changed to: 1
+Participant Name: dgdfgdf
+2438: Patient changed to: AHMED, RAGHD
+4105: Drug changed to: ABILIFY 30MG TAB
+35324 Result: AHMED, RAGHD ABILIFY 30MG TAB 
+Apply Days Capsules Everyday for 1 Days for pain
+
+37188: Drug changed to: ABILIFY 10MG TAB
+39033: Drug changed to: ABILIFY 10MG TAB
+39191: Patient changed to: ABOU, AFAF
+39342: Patient changed to: ABOU, AFAF
+39344: Method changed to: Apply
+39346: Units changed to: Capsules
+39347: Frequency changed to: Everyday
+39349: LengthOfTime changed to: 1
+39351: LengthUnits changed to: Days
+39352: TimesPerUnit changed to: 1
+67503: TimesPerUnit changed to: 3
+Participant Name: hhj
+21079: LengthOfTime changed to: 2
+31381 Result: NA NA 
+Apply 2 Capsules Everyday for 1 Days none
+
+31704: Drug changed to: ABILIFY 10MG TAB
+31835: Drug changed to: ABILIFY 10MG TAB
+31843: Patient changed to: ABOU, AFAF
+31850: Patient changed to: ABOU, AFAF
+31851: Method changed to: Apply
+31852: Units changed to: Capsules
+31853: Frequency changed to: Everyday
+31855: LengthOfTime changed to: 1
+31856: LengthUnits changed to: Days
+31857: TimesPerUnit changed to: 1

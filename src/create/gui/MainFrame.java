@@ -241,8 +241,8 @@ public class MainFrame extends JFrame {
 		btnFinish.setBounds(667, 381, size.width, size.height);
 		comboMethod.setBounds(25 , 175, 172, 25);
 		comboUnit.setBounds(325 , 175, 100, 25);
-		comboLengthOfTime.setBounds(215 ,175 ,100, 25);
-		comboTimesPerUnit.setBounds(215 ,223 ,100, 25);
+		comboTimesPerUnit.setBounds(215 ,175 ,100, 25);
+		comboLengthOfTime.setBounds(215 ,223 ,100, 25);
 		comboLengthUnits.setBounds(325 ,223 ,100, 25);
 		comboFrequency.setBounds(25 ,223 ,125, 25);
 		//tf.setBounds(25, 400, 125, 25);
